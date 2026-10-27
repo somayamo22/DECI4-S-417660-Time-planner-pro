@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/my-final-react-project/",
+ base: '/DECI4-S-417660-Time-planner-pro/',
 });
