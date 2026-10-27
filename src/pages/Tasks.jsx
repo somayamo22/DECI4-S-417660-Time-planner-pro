@@ -1,4 +1,4 @@
-import TaskList from "../components/TaskList";
+import TaskList from "../Components/TaskList";
 
 function Tasks({
   tasks,
